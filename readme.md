@@ -6,7 +6,7 @@ Este repositório contém um projeto que utiliza o Azure OpenAI para gerar image
 
 1. **Criação do Repositório**: Foi criado repositório com o nome "copilot".
 2. **Geração de Imagens**: Utilizando o Azure OpenAI, foram geradas imagens que foram salvas na pasta `inputs/`.
-3. **Reconhecimento de Texto**: As imagens geradas foram processadas pelo Azure Vision para realizar o reconhecimento de texto, e os resultados foram salvos na pasta `output/`.
+3. **Reconhecimento de Texto**: A imagem utilizada foi processada pelo Azure Vision para realizar o reconhecimento de texto, e os resultados foram salvos na pasta `output/`.
 
 ## Azure OpenAI
 
